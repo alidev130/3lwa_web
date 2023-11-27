@@ -1,0 +1,171 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+  body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: gray ; 
+  height: 604px;
+  }
+
+.banner-s {
+  background: #4EBBBD;
+  height: 1100px;
+  width: 604px;
+  border-radius: 15px;
+  margin: 7px 14px
+  }
+.banner-b {
+  background: #4EBBBD;
+  height: 1050px;
+  width: 604px;
+  border-radius: 15px;
+  margin: 7px 14px
+  }
+
+.banner-b section img {
+  height: 40px; 
+  margin: 1rem;
+  }
+.container .banner-b article img {
+  width : 300px;
+  height: 300px;
+  margin-left: 2rem;
+  border-radius: 20px
+  }
+.container .banner-d article img {
+  width : 300px;
+  height: 300px;
+  margin-left: 2rem;
+  border-radius: 20px
+  }
+.banner-s section img {
+  height: 40px; 
+  margin: 1rem;
+  }
+.container .banner-s article img {
+  width : 300px;
+  margin-left: 2rem;
+  border-radius: 20px
+  }
+.banner {
+  background: #4EBBBD;
+  height: 850px;
+  width: 604px;
+  border-radius: 15px;
+  margin: 7px 14px
+  }
+.banner section img {
+  height: 40px; 
+  margin: 1rem;
+  }
+.banner-d {
+  background: #4EBBBD;
+  height: 1000px;
+  width: 604px;
+  border-radius: 15px;
+  margin: 7px 14px
+  }
+
+.banner-d section img {
+  height: 40px; 
+  margin: 1rem;
+  }
+
+.nav {
+  flex-direction: row-reverse;
+  }
+
+.banner-s .nav h1,
+.banner-b .nav h1, 
+.banner-d .nav h1.mk{
+  order: 2;
+  font-family: "Rubik"; 
+  text-align: center;
+  margin-right: 9rem
+  }
+.banner-b .nav h1.po {
+  order: 2;
+  font-family: "Rubik"; 
+  text-align: center;
+  margin-right: 0rem
+  }
+
+.banner-s .nav h1.po {
+  order: 2;
+  font-family: "Rubik"; 
+  text-align: center;
+  margin-right: 5rem
+  }
+.nav h1 
+{order: 2;
+  font-family: "Rubik"; 
+  text-align: center;
+  margin-right: 5.3rem
+}
+  
+.nav h1.ko 
+{order: 2;
+  font-family: "Rubik"; 
+  text-align: center;
+  margin-right: 7rem
+}
+  
+header div.li {
+  margin-left: 4.7rem;
+  }
+
+.container .banner article img {
+  width : 300px;
+  margin-left: 2rem;
+  border-radius: 20px
+  }
+
+.container .banner-d article img {
+  width : 300px;
+  margin-left: 2rem;
+  border-radius: 20px
+  }
+  
+
+main div ul {
+  margin-left: 6rem; 
+  font-family: "Marhey";
+  font-size: 18px;
+  color: #C74955;
+  text-shadow: 2px 4px 5px gray
+  }
+
+main div ul.gh {
+  margin-left: 8rem; 
+  font-family: "Marhey";
+  font-size: 18px;
+  color: #C74955;
+  text-shadow: 2px 4px 5px gray
+  }
+
+footer {
+  font-family: 'Marhey', serif; direction: rtl;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  }
+
+footer p span {
+  font-family: 'Scheherazade New', serif;
+  color: #008000;
+  }
+
+footer p span span.span { 
+  right: 14px; bottom: 2.3px;
+  font-size: 12px; 
+  }
+
+footer p span span.spa {
+  left: 15px;
+  font-size: 12px;
+  bottom: 2.3px
+  }
+
+h1.pos { 
+  left: 50px
+  }
